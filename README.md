@@ -6,7 +6,7 @@ Python3
 tensorflow1.12
 
 ## Pre-trained Model
-You can download pretrained model weights from [BaiduYun Drive](https://pan.baidu.com/s/1aaFSrJOCczEB3M88VaUc3w). All the weights are converted from torchvision.model.resnet.
+You can download pretrained model weights from [BaiduYun Drive](https://pan.baidu.com/s/1aaFSrJOCczEB3M88VaUc3w). All the weights are converted from torchvision.model.
 
 ## Reference
 [1] [arXiv:1801.04381](https://arxiv.org/abs/1801.04381)  
